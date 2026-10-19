@@ -1,0 +1,6 @@
+{
+  "name": "Remote scrcpy Control Suite",
+  "description": "Persistent remote Android screen mirroring and control dashboard using scrcpy v3.3.4 and Tailscale encrypted tunnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
